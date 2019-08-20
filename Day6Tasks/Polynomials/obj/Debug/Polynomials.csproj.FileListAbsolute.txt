@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day6Tasks\Polynomials\bin\Debug\Polynomials.dll
+C:\Users\Tanya\source\repos\Day6Tasks\Polynomials\bin\Debug\Polynomials.pdb
+C:\Users\Tanya\source\repos\Day6Tasks\Polynomials\obj\Debug\Polynomials.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day6Tasks\Polynomials\obj\Debug\Polynomials.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day6Tasks\Polynomials\obj\Debug\Polynomials.dll
+C:\Users\Tanya\source\repos\Day6Tasks\Polynomials\obj\Debug\Polynomials.pdb

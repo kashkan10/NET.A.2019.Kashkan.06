@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day6Tasks\JaggedBubbleSort\bin\Debug\JaggedBubbleSort.dll
+C:\Users\Tanya\source\repos\Day6Tasks\JaggedBubbleSort\bin\Debug\JaggedBubbleSort.pdb
+C:\Users\Tanya\source\repos\Day6Tasks\JaggedBubbleSort\obj\Debug\JaggedBubbleSort.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day6Tasks\JaggedBubbleSort\obj\Debug\JaggedBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day6Tasks\JaggedBubbleSort\obj\Debug\JaggedBubbleSort.dll
+C:\Users\Tanya\source\repos\Day6Tasks\JaggedBubbleSort\obj\Debug\JaggedBubbleSort.pdb
